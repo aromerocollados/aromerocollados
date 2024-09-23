@@ -45,7 +45,19 @@ Soy un recién gaduado en Desarrollo de Aplicaciones Multiplataforma. Estoy en c
 ### Estadísticas GitHub
 -------------------
 <p align="center">
-  <a href="https://github.com/aromerocollados03/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromerocollados03#version3"/>
+  <a href="https://github.com/aromerocollados/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromerocollados#version3"/>
   </a>
 </p>
+
+<div align="center">
+<a href="https://github.com/aromerocollados">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aromerocollados03&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromerocollados03&layout=compact&langs_count=7&theme=default"/></a>
+</div>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
