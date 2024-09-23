@@ -10,11 +10,42 @@ Soy un recién gaduado en Desarrollo de Aplicaciones Multiplataforma. Estoy en c
 - 🌱 Me estoy especializando en .NET, JavaScript y Python.
 - 🔜 Futuro Full-Stack
 - 📈 Focused.
-- ⚡ Hobbies: Code 24x7, Sports and Games
+- ⚡ Hobbies: Programar 24x7, Deporte and Videojuegos
 <br/>
 
 ### Lenguajes y Herramientas
 -------------------
-[![My Skills](https://skillicons.dev/icons?i=css,dotnet,docker,firebase,github,gitlab,html,idea,js,kotlin,mint,mysql,nestjs,nginx,nodejs,postgres)](https://skillicons.dev)
+## <b>🎨 Frontend</b>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular)](https://skillicons.dev)
 
+## <b>🖥️ Backend</b>
+[![My Skills](https://skillicons.dev/icons?i=nestjs,dotnet,py,java,spring,kotlin)](https://skillicons.dev)
 
+## <b>🗄️ Bases de Datos</b>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://skillicons.dev)
+
+## <b>🗄️ Tecnologías Utilizadas</b>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,git,docker,postman,aws,nginx)](https://skillicons.dev)
+
+### Contáctame
+-------------------
+<a target="_blank" href="https://www.linkedin.com/in/alejandro-romero-collados-73667923b/">
+  <img src="https://img.shields.io/badge/-Alejandro Romero Collados-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+</a>
+<a target="_blank" href="mailto:aromerocollados03@gmail.com">
+  <img src="https://img.shields.io/badge/-aromerocollados03@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+</a>
+<a href="https://www.instagram.com/aromero03_/">
+  <img src="https://img.shields.io/badge/-aromero03_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/hZaQoOGL17/">
+  <img src="https://img.shields.io/badge/Alejandro Romero-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+</a>
+
+### Estadísticas GitHub
+-------------------
+<p align="center">
+  <a href="https://github.com/aromerocollados03/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromerocollados03#version3"/>
+  </a>
+</p>
