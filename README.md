@@ -2,7 +2,7 @@
 
 ### Sobre mí
 -------------------
-Soy un recién gaduado en Desarrollo de Aplicaciones Multiplataforma. Estoy en constante búsqueda de oportunidades que me permitan crecer tanto a nivel personal como profesional, y tengo un gran interés en aprender nuevas tecnologías y lenguajes.<br/><br/>
+Soy un recién graduado en Desarrollo de Aplicaciones Multiplataforma. Estoy en constante búsqueda de oportunidades que me permitan crecer tanto a nivel personal como profesional, y tengo un gran interés en aprender nuevas tecnologías y lenguajes.<br/><br/>
 
 <img align="right" alt="Vegeta Workout" src="https://github.com/user-attachments/assets/ca240f0a-c164-4add-984b-03305b69fd8d" width="300" height="200" />
 
