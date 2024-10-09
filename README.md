@@ -16,10 +16,10 @@
 ### Lenguajes y Herramientas
 -------------------
 ## <b>🎨 Frontend</b>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,angular)](https://skillicons.dev)
 
 ## <b>🖥️ Backend</b>
-[![My Skills](https://skillicons.dev/icons?i=nestjs,dotnet,py,java,spring,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,dotnet,py,java,spring,kotlin,php)](https://skillicons.dev)
 
 ## <b>🗄️ Bases de Datos</b>
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://skillicons.dev)
