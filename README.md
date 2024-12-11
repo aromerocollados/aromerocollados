@@ -4,9 +4,9 @@
 -------------------
 <img align="right" alt="Vegeta Workout" src="https://github.com/user-attachments/assets/ca240f0a-c164-4add-984b-03305b69fd8d" width="300" height="200" />
 
+- 💻 Actualmente soy Desarrollador Web en Anelis Network
 - 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma
-- 😟 Actualmente me encuentro sin empleo, abierto a todo tipo de ofertas.
-- 🌱 Me estoy especializando en .NET, JavaScript y Python.
+- 🌱 Me estoy especializando en JavaScript y Python.
 - 🔜 Futuro Full-Stack
 - 📈 Amante de lograr mis objetivos
 - 🎯 Focused.
